@@ -102,6 +102,7 @@ fun runSim(){
     val greatingFUN = configGreatingFunction()
     println(greatingFUN("HAYA"))
     println(greatingFUN("HAYA"))
+
 }*/
 
     //13)i don't under stand this code :( =================================================================================================================
